@@ -64,6 +64,7 @@ Spells
     
 What Changed and Why?
 
+    In the Battle Menus, the command Run was changed to Flee for better conveyance of meaning and understanding.
     Perseus Shield is shorter than Shield of Perseus.
     FlowMover sounds 'Engrish' so changed it back to Hover Craft.
     IceDecker also sounds 'Engrish' so changed to Ice Driller.
@@ -78,7 +79,7 @@ What Changed and Why?
     I prefer Magic Unlock over Magic Unseal with a nod to 'Unlock Magic' from Ultima games.
     Magic Waller sounds Engrish so shortened to Magic Wall.  I debated on Shell from Final Fantasy but changed mind.
          Changed Magic Wall to Mighty Wall to contrast with Basic Wall and to avoid issues with confusing names.
-    Escape is both more succinct and understandable in English to not confuse Quick Dash as a buff.
+    Quick Dash was changed to Escape for a more succinct and understandable meaning in English and to not confuse Quick Dash as a buff.
     I changed Super Heal to Mega Heal as a personal nitpick.
     Transrate looks like a typo and it was done on purpose (check translation notes).  Construe does the job better IMHO.
     Troop is a substandard localization IMHO.  I used Teleport to also match the French version.
